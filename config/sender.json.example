@@ -1,0 +1,10 @@
+{
+  "sender_email": "your-sender-account@example.com",
+  "smtp_login": "your-smtp-login@example.com",
+  "sender_password": "YOUR_APP_PASSWORD_HERE",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "google_cse_api_key": "YOUR_GOOGLE_CSE_API_KEY",
+  "google_cse_id": "YOUR_GOOGLE_CSE_ID",
+  "brave_search_api_key": "YOUR_BRAVE_SEARCH_API_KEY"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "YOUR_NAME",
+  "notify_to": "your-email@example.com",
+  "output_path": "/path/to/your/output/folder",
+  "search_terms": ["business intelligence", "web analytics", "Power BI"],
+  "niches": ["Business Analytics", "Web Analytics"],
+  "tools": ["Power BI", "Excel", "SQL", "Python"],
+  "sectors": ["Retail", "FMCG", "Procurement", "Supply Chain"],
+  "global_filter": "strict",
+  "collection_window_hours": 24,
+  "recommendation_day_threshold": 7,
+  "location_targets": [
+    {"location": "Your Country", "remote_required": false, "window_hours": 168}
+  ]
+}

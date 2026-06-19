@@ -1,0 +1,7 @@
+config/*.json
+!config/*.example
+config/mentees/
+logs/
+session-logs/
+project-notes.md
+claude.md
