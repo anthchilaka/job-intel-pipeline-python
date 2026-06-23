@@ -1,1 +1,103 @@
-QGVjaG8gb2ZmCnNldGxvY2FsIGVuYWJsZWRlbGF5ZWRleHBhbnNpb24KUkVNID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpSRU0gIEpvYiBJbnRlbCBQaXBlbGluZSDigJQgRGFpbHkgQ29sbGVjdGlvbgpSRU0gIExheWVyIDE6IGFsbCBzb3VyY2Ugc2NyaXB0cyBwZXIgdXNlcgpSRU0gIFNjaGVkdWxlZCBydW46IDU6MDAgQU0gZGFpbHkgdmlhIFdpbmRvd3MgVGFzayBTY2hlZHVsZXIKUkVNClJFTSAgQVJDSElURUNUVVJFOiBPcHRpb24gQSDigJQgc2luZ2xlIGJhdCwgYWxsIGNvbmZpZ3MKUkVNICBUbyBhZGQgYSBuZXcgdXNlcjogY29weSBhIHVzZXIgYmxvY2sgYmVsb3cgYW5kIHVwZGF0ZQpSRU0gIHRoZSBuYW1lIGFuZCBjb25maWcgcGF0aC4gT25lIHNjaGVkdWxlZCB0YXNrIGhhbmRsZXMgYWxsLgpSRU0gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgpzZXQgU0NSSVBUU19ESVI9JX5kcDAKc2V0IENPTkZJR19ESVI9JX5kcDAuLlxjb25maWcKc2V0IExPR19ESVI9JX5kcDAuLlxsb2dzCgppZiBub3QgZXhpc3QgIiVMT0dfRElSJSIgbWtkaXIgIiVMT0dfRElSJSIKCmVjaG8uID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiCmVjaG8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiCmVjaG8gWyVkYXRlJSAldGltZSVdIC0tIEpvYiBJbnRlbCBQaXBlbGluZSBkYWlseSBydW4gc3RhcnRlZCA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IgplY2hvID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IgoKUkVNIOKUgOKUgCBETlMgUkVBRElORVNTIENIRUNLIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApSRU0gIFdhaXRzIHVwIHRvIDMgbWludXRlcyBmb3IgRE5TIHRvIHJlc29sdmUgYWZ0ZXIgd2FrZS1mcm9tLXNsZWVwLgpSRU0gIFNjcmlwdHMgZXhpdCAwIGV2ZW4gb24gbmV0d29yayBmYWlsdXJlLCBzbyBUYXNrIFNjaGVkdWxlciByZXRyaWVzClJFTSAgbmV2ZXIgZmlyZS4gVGhpcyBwcmUtY2hlY2sgY2F0Y2hlcyB0aGUgZ2FwIGJlZm9yZSBhbnkgc2NyaXB0IHJ1bnMuCnNldCBETlNfQVRURU1QVFM9MAo6RE5TQ0hFQ0sKcGluZyAtbiAxIC13IDIwMDAgOC44LjguOCA+bnVsIDI+JjEKaWYgIUVSUk9STEVWRUwhIEVRVSAwIGdvdG8gRE5TUkVBRFkKc2V0IC9hIEROU19BVFRFTVBUUys9MQplY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBETlMgbm90IHJlYWR5IChhdHRlbXB0ICFETlNfQVRURU1QVFMhLzYpLCB3YWl0aW5nIDMwcy4uLiA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IgppZiAhRE5TX0FUVEVNUFRTISBHRVEgNiAoCiAgICBlY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBETlMgY2hlY2sgZmFpbGVkIGFmdGVyIDMgbWludXRlcy4gQWJvcnRpbmcgcnVuLiA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IgogICAgZWNoby4gPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIKICAgIGV4aXQgL2IgMQopCnRpbWVvdXQgL3QgMzAgL25vYnJlYWsgPm51bApnb3RvIEROU0NIRUNLCjpETlNSRUFEWQplY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBOZXR3b3JrIHJlYWR5IChETlMgcmVzb2x2ZWQgYWZ0ZXIgIUROU19BVFRFTVBUUyEgd2FpdChzKSkgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIKUkVNIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKY2QgL2QgIiVTQ1JJUFRTX0RJUiUiCgoKUkVNIOKUgOKUgCBVU0VSIDEgKHByaW1hcnkpIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgAoKZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gUnVubmluZzogVXNlcjEgKExpbmtlZEluIEErQikgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIKcHl0aG9uIGNvbGxlY3Rfam9icy5weSAtLWNvbmZpZyAiJUNPTkZJR19ESVIlXHVzZXIxLmpzb24iID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiIDI+JjEKc2V0IEVSUj0hRVJST1JMRVZFTCEKaWYgIUVSUiEgRVFVIDAgKGVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFVzZXIxIExpbmtlZEluOiBPSyA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikgZWxzZSAoZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gVXNlcjEgTGlua2VkSW46IEZBSUxFRCBjb2RlICFFUlIhID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiKQoKZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gUnVubmluZzogVXNlcjEgKEpvYlNweSBTb3VyY2UgRCkgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIKcHl0aG9uIGNvbGxlY3Rfam9ic3B5LnB5IC0tY29uZmlnICIlQ09ORklHX0RJUiVcdXNlcjEuanNvbiIgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIgMj4mMQpzZXQgRVJSPSFFUlJPUkxFVkVMIQppZiAhRVJSISBFUVUgMCAoZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gVXNlcjEgSm9iU3B5OiBPSyA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikgZWxzZSAoZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gVXNlcjEgSm9iU3B5OiBGQUlMRUQgY29kZSAhRVJSISA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikKCmVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFJ1bm5pbmc6IFVzZXIxIChXZVdvcmtSZW1vdGVseSkgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIKcHl0aG9uIGNvbGxlY3Rfd3dyLnB5IC0tY29uZmlnICIlQ09ORklHX0RJUiVcdXNlcjEuanNvbiIgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIgMj4mMQpzZXQgRVJSPSFFUlJPUkxFVkVMIQppZiAhRVJSISBFUVUgMCAoZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gVXNlcjEgV1dSOiBPSyA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikgZWxzZSAoZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gVXNlcjEgV1dSOiBGQUlMRUQgY29kZSAhRVJSISA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikKCmVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFJ1bm5pbmc6IFVzZXIxIChXb3JrQXRBU3RhcnR1cCkgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIKcHl0aG9uIGNvbGxlY3Rfd2Fhcy5weSAtLWNvbmZpZyAiJUNPTkZJR19ESVIlXHVzZXIxLmpzb24iID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiIDI+JjEKc2V0IEVSUj0hRVJST1JMRVZFTCEKaWYgIUVSUiEgRVFVIDAgKGVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFVzZXIxIFdBQVM6IE9LID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiKSBlbHNlIChlY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBVc2VyMSBXQUFTOiBGQUlMRUQgY29kZSAhRVJSISA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikKClJFTSBXZWxsZm91bmQgcGFya2VkIOKAlCBEYXRhRG9tZSBDQVBUQ0hBIGJsb2NrcyBoZWFkbGVzcyBQbGF5d3JpZ2h0IChPUEVOIGlzc3VlKQpSRU0gcHl0aG9uIGNvbGxlY3Rfd2VsbGZvdW5kLnB5IC0tY29uZmlnICIlQ09ORklHX0RJUiVcdXNlcjEuanNvbiIgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIgMj4mMQoKClJFTSDilIDilIAgVVNFUiAyIChzZWNvbmQgdXNlciAvIG1lbnRlZSDigJQgaWxsdXN0cmF0ZXMgdGhlIG11bHRpLXRlbmFudCBwYXR0ZXJuKSDilIDilIAKCmVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFJ1bm5pbmc6IFVzZXIyIChMaW5rZWRJbiBBK0IpID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiCnB5dGhvbiBjb2xsZWN0X2pvYnMucHkgLS1jb25maWcgIiVDT05GSUdfRElSJVxtZW50ZWVzXHVzZXIyLmpzb24iID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiIDI+JjEKc2V0IEVSUj0hRVJST1JMRVZFTCEKaWYgIUVSUiEgRVFVIDAgKGVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFVzZXIyIExpbmtlZEluOiBPSyA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikgZWxzZSAoZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gVXNlcjIgTGlua2VkSW46IEZBSUxFRCBjb2RlICFFUlIhID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiKQoKZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gUnVubmluZzogVXNlcjIgKEpvYlNweSBTb3VyY2UgRCkgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIKcHl0aG9uIGNvbGxlY3Rfam9ic3B5LnB5IC0tY29uZmlnICIlQ09ORklHX0RJUiVcbWVudGVlc1x1c2VyMi5qc29uIiA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IiAyPiYxCnNldCBFUlI9IUVSUk9STEVWRUwhCmlmICFFUlIhIEVRVSAwIChlY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBVc2VyMiBKb2JTcHk6IE9LID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiKSBlbHNlIChlY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBVc2VyMiBKb2JTcHk6IEZBSUxFRCBjb2RlICFFUlIhID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiKQoKZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gUnVubmluZzogVXNlcjIgKFdlV29ya1JlbW90ZWx5KSA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IgpweXRob24gY29sbGVjdF93d3IucHkgLS1jb25maWcgIiVDT05GSUdfRElSJVxtZW50ZWVzXHVzZXIyLmpzb24iID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiIDI+JjEKc2V0IEVSUj0hRVJST1JMRVZFTCEKaWYgIUVSUiEgRVFVIDAgKGVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFVzZXIyIFdXUjogT0sgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIpIGVsc2UgKGVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFVzZXIyIFdXUjogRkFJTEVEIGNvZGUgIUVSUiEgPj4gIiVMT0dfRElSJVxydW5fbG9nLnR4dCIpCgplY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBSdW5uaW5nOiBVc2VyMiAoV29ya0F0QVN0YXJ0dXApID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiCnB5dGhvbiBjb2xsZWN0X3dhYXMucHkgLS1jb25maWcgIiVDT05GSUdfRElSJVxtZW50ZWVzXHVzZXIyLmpzb24iID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiIDI+JjEKc2V0IEVSUj0hRVJST1JMRVZFTCEKaWYgIUVSUiEgRVFVIDAgKGVjaG8gWyVkYXRlJSAldGltZSVdIC0tIFVzZXIyIFdBQVM6IE9LID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiKSBlbHNlIChlY2hvIFslZGF0ZSUgJXRpbWUlXSAtLSBVc2VyMiBXQUFTOiBGQUlMRUQgY29kZSAhRVJSISA+PiAiJUxPR19ESVIlXHJ1bl9sb2cudHh0IikKCgpSRU0g4pSA4pSAIEFERCBORVcgVVNFUlMgQkVMT1cgVEhJUyBMSU5FIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgApSRU0gIENvcHkgdGhlIFVzZXIyIGJsb2NrIGFib3ZlLCB1cGRhdGUgbmFtZSBhbmQgY29uZmlnIHBhdGguCgoKZWNobyBbJWRhdGUlICV0aW1lJV0gLS0gRGFpbHkgcnVuIGNvbXBsZXRlID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiCmVjaG8uID4+ICIlTE9HX0RJUiVccnVuX2xvZy50eHQiCmVuZGxvY2FsCg==
+@echo off
+setlocal enabledelayedexpansion
+REM ============================================================
+REM  Job Intel Pipeline — Daily Collection
+REM  Layer 1: all source scripts per user
+REM  Scheduled run: 5:00 AM daily via Windows Task Scheduler
+REM
+REM  ARCHITECTURE: Option A — single bat, all configs
+REM  To add a new user: copy a user block below and update
+REM  the name and config path. One scheduled task handles all.
+REM ============================================================
+
+set SCRIPTS_DIR=%~dp0
+set CONFIG_DIR=%~dp0..\config
+set LOG_DIR=%~dp0..\logs
+
+if not exist "%LOG_DIR%" mkdir "%LOG_DIR%"
+
+echo. >> "%LOG_DIR%\run_log.txt"
+echo ============================================================ >> "%LOG_DIR%\run_log.txt"
+echo [%date% %time%] -- Job Intel Pipeline daily run started >> "%LOG_DIR%\run_log.txt"
+echo ============================================================ >> "%LOG_DIR%\run_log.txt"
+
+REM ── DNS READINESS CHECK ──────────────────────────────────────
+REM  Waits up to 3 minutes for DNS to resolve after wake-from-sleep.
+REM  Scripts exit 0 even on network failure, so Task Scheduler retries
+REM  never fire. This pre-check catches the gap before any script runs.
+set DNS_ATTEMPTS=0
+:DNSCHECK
+ping -n 1 -w 2000 8.8.8.8 >nul 2>&1
+if !ERRORLEVEL! EQU 0 goto DNSREADY
+set /a DNS_ATTEMPTS+=1
+echo [%date% %time%] -- DNS not ready (attempt !DNS_ATTEMPTS!/6), waiting 30s... >> "%LOG_DIR%\run_log.txt"
+if !DNS_ATTEMPTS! GEQ 6 (
+    echo [%date% %time%] -- DNS check failed after 3 minutes. Aborting run. >> "%LOG_DIR%\run_log.txt"
+    echo. >> "%LOG_DIR%\run_log.txt"
+    exit /b 1
+)
+timeout /t 30 /nobreak >nul
+goto DNSCHECK
+:DNSREADY
+echo [%date% %time%] -- Network ready (DNS resolved after !DNS_ATTEMPTS! wait(s)) >> "%LOG_DIR%\run_log.txt"
+REM ─────────────────────────────────────────────────────────────
+
+cd /d "%SCRIPTS_DIR%"
+
+
+REM ── USER 1 (primary) ────────────────────────────────────────
+
+echo [%date% %time%] -- Running: User1 (LinkedIn A+B) >> "%LOG_DIR%\run_log.txt"
+python collect_jobs.py --config "%CONFIG_DIR%\user1.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User1 LinkedIn: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User1 LinkedIn: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+echo [%date% %time%] -- Running: User1 (JobSpy Source D) >> "%LOG_DIR%\run_log.txt"
+python collect_jobspy.py --config "%CONFIG_DIR%\user1.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User1 JobSpy: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User1 JobSpy: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+echo [%date% %time%] -- Running: User1 (WeWorkRemotely) >> "%LOG_DIR%\run_log.txt"
+python collect_wwr.py --config "%CONFIG_DIR%\user1.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User1 WWR: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User1 WWR: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+echo [%date% %time%] -- Running: User1 (WorkAtAStartup) >> "%LOG_DIR%\run_log.txt"
+python collect_waas.py --config "%CONFIG_DIR%\user1.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User1 WAAS: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User1 WAAS: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+REM Wellfound parked — DataDome CAPTCHA blocks headless Playwright (OPEN issue)
+REM python collect_wellfound.py --config "%CONFIG_DIR%\user1.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+
+
+REM ── USER 2 (second user / mentee — illustrates the multi-tenant pattern) ──
+
+echo [%date% %time%] -- Running: User2 (LinkedIn A+B) >> "%LOG_DIR%\run_log.txt"
+python collect_jobs.py --config "%CONFIG_DIR%\mentees\user2.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User2 LinkedIn: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User2 LinkedIn: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+echo [%date% %time%] -- Running: User2 (JobSpy Source D) >> "%LOG_DIR%\run_log.txt"
+python collect_jobspy.py --config "%CONFIG_DIR%\mentees\user2.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User2 JobSpy: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User2 JobSpy: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+echo [%date% %time%] -- Running: User2 (WeWorkRemotely) >> "%LOG_DIR%\run_log.txt"
+python collect_wwr.py --config "%CONFIG_DIR%\mentees\user2.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User2 WWR: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User2 WWR: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+echo [%date% %time%] -- Running: User2 (WorkAtAStartup) >> "%LOG_DIR%\run_log.txt"
+python collect_waas.py --config "%CONFIG_DIR%\mentees\user2.json" >> "%LOG_DIR%\run_log.txt" 2>&1
+set ERR=!ERRORLEVEL!
+if !ERR! EQU 0 (echo [%date% %time%] -- User2 WAAS: OK >> "%LOG_DIR%\run_log.txt") else (echo [%date% %time%] -- User2 WAAS: FAILED code !ERR! >> "%LOG_DIR%\run_log.txt")
+
+
+REM ── ADD NEW USERS BELOW THIS LINE ─────────────────────────────
+REM  Copy the User2 block above, update name and config path.
+
+
+echo [%date% %time%] -- Daily run complete >> "%LOG_DIR%\run_log.txt"
+echo. >> "%LOG_DIR%\run_log.txt"
+endlocal
